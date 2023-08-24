@@ -1,4 +1,4 @@
-# flutter_scroll_animation
+# Flutter Scroll Animation
 
 A new Flutter project.
 
