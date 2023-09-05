@@ -1,6 +1,6 @@
 # Flutter Scroll Animation
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QuM2ReIAzvQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=QuM2ReIAzvQ)
 
 ## Getting Started
 
